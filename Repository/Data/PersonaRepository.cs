@@ -19,7 +19,7 @@ namespace Repository.Data
         {
             try
             {
-                if(conexionDB.Execute("Insert into Persona(nombre, apellido, cedula) values(@nombre, @apellido, @cedula)", persona) > 0)
+                if(conexionDB.Execute("INSERT into Persona(nombre, apellido, cedula) values(@nombre, @apellido, @cedula)", persona) > 0)
                     return true;
                 else
                     return false;
@@ -33,22 +33,57 @@ namespace Repository.Data
 
         public PersonaModel get(int id)
         {
-            throw new NotImplementedException();
+            try
+            {
+                return conexionDB.QueryFirstOrDefault<PersonaModel>("SELECT * FROM Persona WHERE Id = @Id", new { Id = id });
+            }
+            catch (Exception ex)
+            {
+                throw ex;
+            }
         }
 
         public IEnumerable<PersonaModel> list()
         {
-            throw new NotImplementedException();
+            try
+            {
+                return conexionDB.Query<PersonaModel>("SELECT * FROM Persona");
+            }
+            catch (Exception ex)
+            {
+                throw ex;
+            }
         }
 
         public bool remove(PersonaModel persona)
         {
-            throw new NotImplementedException();
+            try
+            {
+                if (conexionDB.Execute("DELETE * FROM Persona WHERE Id = @id", persona.Id) > 0)
+                    return true;
+                else
+                    return false;
+            }
+            catch (Exception ex)
+            {
+                throw ex;
+            }
         }
 
         public bool update(PersonaModel persona)
         {
-            throw new NotImplementedException();
-        }
+            try
+            {
+                if (conexionDB.Execute("UPDATE Persona set nombre = @nombre, apellido = @apellido, cedula = @cedula where Id = @id)", persona.Id) > 0)
+                    return true;
+                else
+                    return false;
+            }
+            catch (Exception ex)
+            {
+
+                throw ex;
+            }
+            
     }
 }
