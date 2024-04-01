@@ -11,7 +11,7 @@ namespace Repository.Data
         bool add(PersonaModel persona);
         bool remove(PersonaModel persona);
         bool update(PersonaModel persona);
-        PersonaModel get(int id);
+        PersonaModel get(PersonaModel persona);
         IEnumerable<PersonaModel> list();
     }
 }

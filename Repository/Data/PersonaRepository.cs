@@ -19,36 +19,74 @@ namespace Repository.Data
         {
             try
             {
-                if(conexionDB.Execute("Insert into Persona(nombre, apellido, cedula) values(@nombre, @apellido, @cedula)", persona) > 0)
+                if (conexionDB.Execute("Insert into Persona(nombre, apellido, cedula) values(@nombre, @apellido, @cedula)", persona) > 0)
                     return true;
                 else
                     return false;
             }
             catch (Exception ex)
             {
-
                 throw ex;
             }
         }
 
-        public PersonaModel get(int id)
-        {
-            throw new NotImplementedException();
-        }
 
-        public IEnumerable<PersonaModel> list()
+        public PersonaModel get(PersonaModel persona)
         {
-            throw new NotImplementedException();
+            try
+            {
+                var query = "SELECT nombre, apellido, cedula FROM Persona WHERE id = @id";
+                var resultado = conexionDB.QueryFirstOrDefault<PersonaModel>(query, new { Id = persona.Id });
+                return resultado;
+            }
+            catch (Exception ex)
+            {
+                throw ex;
+            }
         }
 
         public bool remove(PersonaModel persona)
         {
-            throw new NotImplementedException();
+            try
+            {
+                if (conexionDB.Execute("DELETE FROM Persona WHERE id = @id)", persona.Id) > 0)
+                    return true;
+                else
+                    return false;
+            }
+            catch (Exception ex)
+            {
+                throw ex;
+            }
         }
 
         public bool update(PersonaModel persona)
         {
-            throw new NotImplementedException();
+            try
+            {
+                if (conexionDB.Execute("UPDATE Persona SET nombre = @nombre, apellido = @apellido, cedula = @cedula WHERE id = @id)", persona.Id) > 0)
+                    return true;
+                else
+                    return false;
+            }
+            catch (Exception ex)
+            {
+                throw ex;
+            }
+        }
+
+        public IEnumerable<PersonaModel> list()
+        {
+            try
+            {
+                return conexionDB.Query<PersonaModel>("SELECT * FROM Persona");
+            }
+            catch (Exception ex)
+            {
+                throw ex;
+            }
         }
     }
 }
+
+
