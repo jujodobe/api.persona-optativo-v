@@ -26,29 +26,72 @@ namespace Repository.Data
             }
             catch (Exception ex)
             {
-
                 throw ex;
             }
         }
 
-        public PersonaModel get(int id)
+        public PersonaModel get(PersonaModel personaModel)
         {
-            throw new NotImplementedException();
+            try
+            {
+                var query = "SELECT * FROM Persona WHERE Id = @Id";
+                var persona = conexionDB.QueryFirstOrDefault<PersonaModel>(query, new { personaModel.Id });
+                return persona;
+            }
+            catch(Exception ex)
+            {
+                throw new Exception(ex.Message);   
+            }
         }
 
         public IEnumerable<PersonaModel> list()
         {
-            throw new NotImplementedException();
+            try
+            {
+                return conexionDB.Query<PersonaModel>("SELECT * FROM Persona");
+            }catch(Exception ex)
+            {
+                throw new Exception(ex.Message);   
+            }
         }
 
-        public bool remove(PersonaModel persona)
+        public String remove(PersonaModel personaModel)
         {
-            throw new NotImplementedException();
+            try
+            {
+                var query = "DELETE FROM Persona WHERE Id = @Id";
+                int result = conexionDB.Execute(query, new { personaModel.Id });
+                if (result > 0)
+                {
+                    return "Registro eliminado";
+                }
+                else
+                {
+                    return "Error al eliminar";
+                }
+            }catch(Exception ex){
+                throw new Exception (ex.Message);
+            }
         }
 
-        public bool update(PersonaModel persona)
+        public String update(PersonaModel personaModel)
         {
-            throw new NotImplementedException();
+            try
+            {
+                var query = "UPDATE Persona set Id WHERE Id = @Id";
+                int result = conexionDB.Execute(query, new { Id = personaModel.Id });
+                if (result > 0)
+                {
+                    return "Registro actualizado";
+                }
+                else
+                {
+                    return "Error al actualizar";
+                }
+            }catch (Exception ex)
+            {
+                throw new Exception(ex.Message);
+            }
         }
     }
 }

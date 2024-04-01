@@ -8,10 +8,10 @@ namespace Repository.Data
 {
     public interface IPersona
     {
-        bool add(PersonaModel persona);
-        bool remove(PersonaModel persona);
-        bool update(PersonaModel persona);
-        PersonaModel get(int id);
+        bool add(PersonaModel personaModel);
+        String remove(PersonaModel personaModel);
+        String update(PersonaModel personaModel);
+        PersonaModel get(PersonaModel personaModel);
         IEnumerable<PersonaModel> list();
     }
 }
