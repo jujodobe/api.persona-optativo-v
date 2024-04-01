@@ -19,7 +19,7 @@ namespace Repository.Data
         {
             try
             {
-                if(conexionDB.Execute("INSERT into Persona(nombre, apellido, cedula) values(@nombre, @apellido, @cedula)", persona) > 0)
+                if (conexionDB.Execute("INSERT into Persona(nombre, apellido, cedula) values(@nombre, @apellido, @cedula)", persona) > 0)
                     return true;
                 else
                     return false;
@@ -84,6 +84,7 @@ namespace Repository.Data
 
                 throw ex;
             }
-            
+
+        }
     }
 }
