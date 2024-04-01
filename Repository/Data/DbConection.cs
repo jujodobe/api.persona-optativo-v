@@ -21,7 +21,7 @@ namespace Repository.Data
 
         public IDbConnection dbConnection()
         {
-
+            //prueba
             try
             {
                 IDbConnection conexion = new NpgsqlConnection(connectionString);

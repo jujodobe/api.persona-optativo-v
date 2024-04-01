@@ -33,22 +33,52 @@ namespace Repository.Data
 
         public PersonaModel get(int id)
         {
-            throw new NotImplementedException();
+            try
+            {
+                return conexionDB.QueryFirstOrDefault<PersonaModel>("SELECT * FROM Persona WHERE id = @Id", new { Id = id });
+            }
+            catch (Exception ex)
+            {
+                throw ex;
+            }
         }
 
         public IEnumerable<PersonaModel> list()
         {
-            throw new NotImplementedException();
+            try
+            {
+                return conexionDB.Query<PersonaModel>("SELECT * FROM Persona");
+            }
+            catch (Exception ex)
+            {
+                throw ex;
+            }
         }
 
         public bool remove(PersonaModel persona)
         {
-            throw new NotImplementedException();
+            try
+            {
+                int affectedRows = conexionDB.Execute("DELETE FROM Persona WHERE cedula = @Cedula", persona);
+                return affectedRows > 0;
+            }
+            catch (Exception ex)
+            {
+                throw ex;
+            }
         }
 
         public bool update(PersonaModel persona)
         {
-            throw new NotImplementedException();
+            try
+            {
+                int affectedRows = conexionDB.Execute("UPDATE Persona SET nombre = @Nombre, apellido = @Apellido WHERE cedula = @Cedula", persona);
+                return affectedRows > 0;
+            }
+            catch (Exception ex)
+            {
+                throw ex;
+            }
         }
     }
 }
