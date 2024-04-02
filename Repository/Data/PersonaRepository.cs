@@ -30,8 +30,22 @@ namespace Repository.Data
                 throw ex;
             }
         }
+        public bool update(PersonaModel persona int id)
+        {
+            try
+            {
+                if (conexionDB.Execute("UPDATE Persona SET " +
+                    "nombre=@nombre, " +
+                    "apellido=@apellido," +
+                    $"cedula=@cedula) where id_persona = {id}", persona) > 0)
+                    return true;
+                else
+                    return false;
+            }
+            catch (Exception ex)
+            {
 
-        public PersonaModel get(int id)
+                public PersonaModel get(int id)
         {
             throw new NotImplementedException();
         }
