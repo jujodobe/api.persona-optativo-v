@@ -30,6 +30,7 @@ namespace Repository.Data
             }
             catch (Exception ex)
             {
+
                 throw new NpgsqlException(ex.Message);
             }
         }
