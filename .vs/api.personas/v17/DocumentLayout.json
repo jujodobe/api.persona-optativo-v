@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Santiago R\\Desktop\\Santi UA\\Ing. Informatica\\9\u00B0 Semestre\\TAREAS\\Optativo V\\Tarea 1\\api.persona-optativo-v\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B9906CFA-F5DE-4132-ACCF-DBBA64A50916}|Repository\\Repository.csproj|c:\\users\\santiago r\\desktop\\santi ua\\ing. informatica\\9\u00B0 semestre\\tareas\\optativo v\\tarea 1\\api.persona-optativo-v\\repository\\data\\personarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9906CFA-F5DE-4132-ACCF-DBBA64A50916}|Repository\\Repository.csproj|solutionrelative:repository\\data\\personarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9906CFA-F5DE-4132-ACCF-DBBA64A50916}|Repository\\Repository.csproj|c:\\users\\santiago r\\desktop\\santi ua\\ing. informatica\\9\u00B0 semestre\\tareas\\optativo v\\tarea 1\\api.persona-optativo-v\\repository\\data\\personamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9906CFA-F5DE-4132-ACCF-DBBA64A50916}|Repository\\Repository.csproj|solutionrelative:repository\\data\\personamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Repositorio\\Consola .net\\api.personas\\Repository\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DA43E05-E703-42AE-BA8D-3E612324BC75}|api.personas\\api.personas.csproj|c:\\users\\santiago r\\desktop\\santi ua\\ing. informatica\\9\u00B0 semestre\\tareas\\optativo v\\tarea 1\\api.persona-optativo-v\\api.personas\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DA43E05-E703-42AE-BA8D-3E612324BC75}|api.personas\\api.personas.csproj|solutionrelative:api.personas\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DA43E05-E703-42AE-BA8D-3E612324BC75}|api.personas\\api.personas.csproj|c:\\users\\santiago r\\desktop\\santi ua\\ing. informatica\\9\u00B0 semestre\\tareas\\optativo v\\tarea 1\\api.persona-optativo-v\\api.personas\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DA43E05-E703-42AE-BA8D-3E612324BC75}|api.personas\\api.personas.csproj|solutionrelative:api.personas\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DA43E05-E703-42AE-BA8D-3E612324BC75}|api.personas\\api.personas.csproj|c:\\users\\santiago r\\desktop\\santi ua\\ing. informatica\\9\u00B0 semestre\\tareas\\optativo v\\tarea 1\\api.persona-optativo-v\\api.personas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DA43E05-E703-42AE-BA8D-3E612324BC75}|api.personas\\api.personas.csproj|solutionrelative:api.personas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DA43E05-E703-42AE-BA8D-3E612324BC75}|api.personas\\api.personas.csproj|c:\\users\\santiago r\\desktop\\santi ua\\ing. informatica\\9\u00B0 semestre\\tareas\\optativo v\\tarea 1\\api.persona-optativo-v\\api.personas\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2DA43E05-E703-42AE-BA8D-3E612324BC75}|api.personas\\api.personas.csproj|solutionrelative:api.personas\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PersonaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Santiago R\\Desktop\\Santi UA\\Ing. Informatica\\9\u00B0 Semestre\\TAREAS\\Optativo V\\Tarea 1\\api.persona-optativo-v\\Repository\\Data\\PersonaRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Data\\PersonaRepository.cs",
+              "ToolTip": "C:\\Users\\Santiago R\\Desktop\\Santi UA\\Ing. Informatica\\9\u00B0 Semestre\\TAREAS\\Optativo V\\Tarea 1\\api.persona-optativo-v\\Repository\\Data\\PersonaRepository.cs",
+              "RelativeToolTip": "Repository\\Data\\PersonaRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T01:18:52.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PersonaModel.cs",
+              "DocumentMoniker": "C:\\Users\\Santiago R\\Desktop\\Santi UA\\Ing. Informatica\\9\u00B0 Semestre\\TAREAS\\Optativo V\\Tarea 1\\api.persona-optativo-v\\Repository\\Data\\PersonaModel.cs",
+              "RelativeDocumentMoniker": "Repository\\Data\\PersonaModel.cs",
+              "ToolTip": "C:\\Users\\Santiago R\\Desktop\\Santi UA\\Ing. Informatica\\9\u00B0 Semestre\\TAREAS\\Optativo V\\Tarea 1\\api.persona-optativo-v\\Repository\\Data\\PersonaModel.cs",
+              "RelativeToolTip": "Repository\\Data\\PersonaModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T01:18:15.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Repositorio\\Consola .net\\api.personas\\Repository\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\Repositorio\\Consola .net\\api.personas\\Repository\\Class1.cs",
+              "ToolTip": "C:\\Repositorio\\Consola .net\\api.personas\\Repository\\Class1.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\Repositorio\\Consola .net\\api.personas\\Repository\\Class1.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T01:16:35.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\Santiago R\\Desktop\\Santi UA\\Ing. Informatica\\9\u00B0 Semestre\\TAREAS\\Optativo V\\Tarea 1\\api.persona-optativo-v\\api.personas\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "api.personas\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\Santiago R\\Desktop\\Santi UA\\Ing. Informatica\\9\u00B0 Semestre\\TAREAS\\Optativo V\\Tarea 1\\api.persona-optativo-v\\api.personas\\WeatherForecast.cs",
+              "RelativeToolTip": "api.personas\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T01:16:35.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Santiago R\\Desktop\\Santi UA\\Ing. Informatica\\9\u00B0 Semestre\\TAREAS\\Optativo V\\Tarea 1\\api.persona-optativo-v\\api.personas\\Program.cs",
+              "RelativeDocumentMoniker": "api.personas\\Program.cs",
+              "ToolTip": "C:\\Users\\Santiago R\\Desktop\\Santi UA\\Ing. Informatica\\9\u00B0 Semestre\\TAREAS\\Optativo V\\Tarea 1\\api.persona-optativo-v\\api.personas\\Program.cs",
+              "RelativeToolTip": "api.personas\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T01:16:35.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Santiago R\\Desktop\\Santi UA\\Ing. Informatica\\9\u00B0 Semestre\\TAREAS\\Optativo V\\Tarea 1\\api.persona-optativo-v\\api.personas\\appsettings.json",
+              "RelativeDocumentMoniker": "api.personas\\appsettings.json",
+              "ToolTip": "C:\\Users\\Santiago R\\Desktop\\Santi UA\\Ing. Informatica\\9\u00B0 Semestre\\TAREAS\\Optativo V\\Tarea 1\\api.persona-optativo-v\\api.personas\\appsettings.json",
+              "RelativeToolTip": "api.personas\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-03T01:16:35.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\Santiago R\\Desktop\\Santi UA\\Ing. Informatica\\9\u00B0 Semestre\\TAREAS\\Optativo V\\Tarea 1\\api.persona-optativo-v\\api.personas\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "api.personas\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\Santiago R\\Desktop\\Santi UA\\Ing. Informatica\\9\u00B0 Semestre\\TAREAS\\Optativo V\\Tarea 1\\api.persona-optativo-v\\api.personas\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "api.personas\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAcAAACAZmZmZmYUwBQAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T01:16:35.846Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
