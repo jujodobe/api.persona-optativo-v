@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Archivos varios",
+      "ColorIndex": -1
+    },
+    "2da43e05-e703-42ae-ba8d-3e612324bc75": {
+      "ProjectGuid": "2da43e05-e703-42ae-ba8d-3e612324bc75",
+      "DisplayName": "api.personas",
+      "ColorIndex": 0
+    },
+    "54cdaffb-927b-49c5-a63c-e00a6df27c7d": {
+      "ProjectGuid": "54cdaffb-927b-49c5-a63c-e00a6df27c7d",
+      "DisplayName": "Services",
+      "ColorIndex": 1
+    },
+    "b9906cfa-f5de-4132-accf-dbba64a50916": {
+      "ProjectGuid": "b9906cfa-f5de-4132-accf-dbba64a50916",
+      "DisplayName": "Repository",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

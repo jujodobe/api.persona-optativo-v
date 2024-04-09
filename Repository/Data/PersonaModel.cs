@@ -13,7 +13,5 @@ namespace Repository.Data
         public string apellido { get; set; }
         public string cedula { get; set; }
 
-
-
     }
 }

@@ -20,6 +20,7 @@ namespace Repository.Data
             try
             {
                 if(conexionDB.Execute("Insert into Persona(nombre, apellido, cedula) values(@nombre, @apellido, @cedula)", persona) > 0)
+
                     return true;
                 else
                     return false;
@@ -66,7 +67,7 @@ namespace Repository.Data
             throw new NotImplementedException();
         }
 
-        public bool remove(PersonaModel persona)
+        public bool remove(int id)
         {
             throw new NotImplementedException();
         }

@@ -1,0 +1,12 @@
+C:\Repositorio\Consola .net\api.personas\Repository\bin\Debug\net6.0\Repository.deps.json
+C:\Repositorio\Consola .net\api.personas\Repository\bin\Debug\net6.0\Repository.dll
+C:\Repositorio\Consola .net\api.personas\Repository\bin\Debug\net6.0\ref\Repository.dll
+C:\Repositorio\Consola .net\api.personas\Repository\bin\Debug\net6.0\Repository.pdb
+C:\Repositorio\Consola .net\api.personas\Repository\obj\Debug\net6.0\Repository.csproj.AssemblyReference.cache
+C:\Repositorio\Consola .net\api.personas\Repository\obj\Debug\net6.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositorio\Consola .net\api.personas\Repository\obj\Debug\net6.0\Repository.AssemblyInfoInputs.cache
+C:\Repositorio\Consola .net\api.personas\Repository\obj\Debug\net6.0\Repository.AssemblyInfo.cs
+C:\Repositorio\Consola .net\api.personas\Repository\obj\Debug\net6.0\Repository.csproj.CoreCompileInputs.cache
+C:\Repositorio\Consola .net\api.personas\Repository\obj\Debug\net6.0\Repository.dll
+C:\Repositorio\Consola .net\api.personas\Repository\obj\Debug\net6.0\ref\Repository.dll
+C:\Repositorio\Consola .net\api.personas\Repository\obj\Debug\net6.0\Repository.pdb
