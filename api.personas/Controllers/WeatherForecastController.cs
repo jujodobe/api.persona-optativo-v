@@ -1,4 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
+using Repository;
+using Services.Logica;
 
 namespace api.personas.Controllers
 {
@@ -21,6 +23,7 @@ namespace api.personas.Controllers
         [HttpGet(Name = "GetWeatherForecast")]
         public IEnumerable<WeatherForecast> Get()
         {
+
             return Enumerable.Range(1, 5).Select(index => new WeatherForecast
             {
                 Date = DateTime.Now.AddDays(index),

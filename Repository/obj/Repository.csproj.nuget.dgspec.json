@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Repositorio\\Consola .net\\api.personas\\Repository\\Repository.csproj": {}
+    "C:\\Users\\carlo\\OneDrive\\Desktop\\api.persona-optativo-v\\Repository\\Repository.csproj": {}
   },
   "projects": {
-    "C:\\Repositorio\\Consola .net\\api.personas\\Repository\\Repository.csproj": {
+    "C:\\Users\\carlo\\OneDrive\\Desktop\\api.persona-optativo-v\\Repository\\Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Repositorio\\Consola .net\\api.personas\\Repository\\Repository.csproj",
+        "projectUniqueName": "C:\\Users\\carlo\\OneDrive\\Desktop\\api.persona-optativo-v\\Repository\\Repository.csproj",
         "projectName": "Repository",
-        "projectPath": "C:\\Repositorio\\Consola .net\\api.personas\\Repository\\Repository.csproj",
-        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Repositorio\\Consola .net\\api.personas\\Repository\\obj\\",
+        "projectPath": "C:\\Users\\carlo\\OneDrive\\Desktop\\api.persona-optativo-v\\Repository\\Repository.csproj",
+        "packagesPath": "C:\\Users\\carlo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\carlo\\OneDrive\\Desktop\\api.persona-optativo-v\\Repository\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\carlo\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -37,6 +34,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -50,6 +52,10 @@
             "Npgsql": {
               "target": "Package",
               "version": "[8.0.2, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.6, )"
             }
           },
           "imports": [
@@ -58,7 +64,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -67,7 +74,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }

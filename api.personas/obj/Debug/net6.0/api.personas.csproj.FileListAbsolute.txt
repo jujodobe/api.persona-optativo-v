@@ -1,0 +1,112 @@
+C:\Repositorio\Consola .net\api.personas\api.personas\bin\Debug\net6.0\appsettings.Development.json
+C:\Repositorio\Consola .net\api.personas\api.personas\bin\Debug\net6.0\appsettings.json
+C:\Repositorio\Consola .net\api.personas\api.personas\bin\Debug\net6.0\api.personas.exe
+C:\Repositorio\Consola .net\api.personas\api.personas\bin\Debug\net6.0\api.personas.deps.json
+C:\Repositorio\Consola .net\api.personas\api.personas\bin\Debug\net6.0\api.personas.runtimeconfig.json
+C:\Repositorio\Consola .net\api.personas\api.personas\bin\Debug\net6.0\api.personas.dll
+C:\Repositorio\Consola .net\api.personas\api.personas\bin\Debug\net6.0\ref\api.personas.dll
+C:\Repositorio\Consola .net\api.personas\api.personas\bin\Debug\net6.0\api.personas.pdb
+C:\Repositorio\Consola .net\api.personas\api.personas\bin\Debug\net6.0\Dapper.dll
+C:\Repositorio\Consola .net\api.personas\api.personas\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Repositorio\Consola .net\api.personas\api.personas\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Repositorio\Consola .net\api.personas\api.personas\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Repositorio\Consola .net\api.personas\api.personas\bin\Debug\net6.0\Npgsql.dll
+C:\Repositorio\Consola .net\api.personas\api.personas\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Repositorio\Consola .net\api.personas\api.personas\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Repositorio\Consola .net\api.personas\api.personas\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Repositorio\Consola .net\api.personas\api.personas\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Repositorio\Consola .net\api.personas\api.personas\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Repositorio\Consola .net\api.personas\api.personas\bin\Debug\net6.0\System.Text.Json.dll
+C:\Repositorio\Consola .net\api.personas\api.personas\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Repositorio\Consola .net\api.personas\api.personas\bin\Debug\net6.0\Repository.dll
+C:\Repositorio\Consola .net\api.personas\api.personas\bin\Debug\net6.0\Services.dll
+C:\Repositorio\Consola .net\api.personas\api.personas\bin\Debug\net6.0\Services.pdb
+C:\Repositorio\Consola .net\api.personas\api.personas\bin\Debug\net6.0\Repository.pdb
+C:\Repositorio\Consola .net\api.personas\api.personas\obj\Debug\net6.0\api.personas.csproj.AssemblyReference.cache
+C:\Repositorio\Consola .net\api.personas\api.personas\obj\Debug\net6.0\api.personas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositorio\Consola .net\api.personas\api.personas\obj\Debug\net6.0\api.personas.AssemblyInfoInputs.cache
+C:\Repositorio\Consola .net\api.personas\api.personas\obj\Debug\net6.0\api.personas.AssemblyInfo.cs
+C:\Repositorio\Consola .net\api.personas\api.personas\obj\Debug\net6.0\api.personas.csproj.CoreCompileInputs.cache
+C:\Repositorio\Consola .net\api.personas\api.personas\obj\Debug\net6.0\api.personas.MvcApplicationPartsAssemblyInfo.cs
+C:\Repositorio\Consola .net\api.personas\api.personas\obj\Debug\net6.0\api.personas.MvcApplicationPartsAssemblyInfo.cache
+C:\Repositorio\Consola .net\api.personas\api.personas\obj\Debug\net6.0\staticwebassets.build.json
+C:\Repositorio\Consola .net\api.personas\api.personas\obj\Debug\net6.0\staticwebassets.development.json
+C:\Repositorio\Consola .net\api.personas\api.personas\obj\Debug\net6.0\scopedcss\bundle\api.personas.styles.css
+C:\Repositorio\Consola .net\api.personas\api.personas\obj\Debug\net6.0\api.personas.csproj.CopyComplete
+C:\Repositorio\Consola .net\api.personas\api.personas\obj\Debug\net6.0\api.personas.dll
+C:\Repositorio\Consola .net\api.personas\api.personas\obj\Debug\net6.0\ref\api.personas.dll
+C:\Repositorio\Consola .net\api.personas\api.personas\obj\Debug\net6.0\api.personas.pdb
+C:\Repositorio\Consola .net\api.personas\api.personas\obj\Debug\net6.0\api.personas.genruntimeconfig.cache
+C:\Users\carlo\OneDrive\Desktop\Api Personas profe\api.persona-optativo-v\api.personas\obj\Debug\net6.0\api.personas.csproj.AssemblyReference.cache
+C:\Users\carlo\OneDrive\Desktop\Api Personas profe\api.persona-optativo-v\api.personas\obj\Debug\net6.0\api.personas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlo\OneDrive\Desktop\Api Personas profe\api.persona-optativo-v\api.personas\obj\Debug\net6.0\api.personas.AssemblyInfoInputs.cache
+C:\Users\carlo\OneDrive\Desktop\Api Personas profe\api.persona-optativo-v\api.personas\obj\Debug\net6.0\api.personas.AssemblyInfo.cs
+C:\Users\carlo\OneDrive\Desktop\Api Personas profe\api.persona-optativo-v\api.personas\obj\Debug\net6.0\api.personas.csproj.CoreCompileInputs.cache
+C:\Users\carlo\OneDrive\Desktop\Api Personas profe\api.persona-optativo-v\api.personas\obj\Debug\net6.0\api.personas.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\carlo\OneDrive\Desktop\Api Personas profe\api.persona-optativo-v\api.personas\obj\Debug\net6.0\api.personas.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\carlo\OneDrive\Desktop\Api Personas profe\api.persona-optativo-v\api.personas\obj\Debug\net6.0\api.personas.sourcelink.json
+C:\Users\carlo\OneDrive\Desktop\Api Personas profe\api.persona-optativo-v\api.personas\obj\Debug\net6.0\api.personas.dll
+C:\Users\carlo\OneDrive\Desktop\Api Personas profe\api.persona-optativo-v\api.personas\obj\Debug\net6.0\refint\api.personas.dll
+C:\Users\carlo\OneDrive\Desktop\Api Personas profe\api.persona-optativo-v\api.personas\obj\Debug\net6.0\api.personas.pdb
+D:\GoogleDrive_Streaming\Mi unidad\CarlitosMart\Documentos\Facu\2024\Semestre 1\OptativoV\Tareas\TP1\api.persona-optativo-v\api.personas\obj\Debug\net6.0\api.personas.csproj.AssemblyReference.cache
+D:\GoogleDrive_Streaming\Mi unidad\CarlitosMart\Documentos\Facu\2024\Semestre 1\OptativoV\Tareas\TP1\api.persona-optativo-v\api.personas\obj\Debug\net6.0\api.personas.GeneratedMSBuildEditorConfig.editorconfig
+D:\GoogleDrive_Streaming\Mi unidad\CarlitosMart\Documentos\Facu\2024\Semestre 1\OptativoV\Tareas\TP1\api.persona-optativo-v\api.personas\obj\Debug\net6.0\api.personas.AssemblyInfoInputs.cache
+D:\GoogleDrive_Streaming\Mi unidad\CarlitosMart\Documentos\Facu\2024\Semestre 1\OptativoV\Tareas\TP1\api.persona-optativo-v\api.personas\obj\Debug\net6.0\api.personas.AssemblyInfo.cs
+D:\GoogleDrive_Streaming\Mi unidad\CarlitosMart\Documentos\Facu\2024\Semestre 1\OptativoV\Tareas\TP1\api.persona-optativo-v\api.personas\obj\Debug\net6.0\api.personas.csproj.CoreCompileInputs.cache
+D:\GoogleDrive_Streaming\Mi unidad\CarlitosMart\Documentos\Facu\2024\Semestre 1\OptativoV\Tareas\TP1\api.persona-optativo-v\api.personas\obj\Debug\net6.0\api.personas.MvcApplicationPartsAssemblyInfo.cs
+D:\GoogleDrive_Streaming\Mi unidad\CarlitosMart\Documentos\Facu\2024\Semestre 1\OptativoV\Tareas\TP1\api.persona-optativo-v\api.personas\obj\Debug\net6.0\api.personas.MvcApplicationPartsAssemblyInfo.cache
+D:\GoogleDrive_Streaming\Mi unidad\CarlitosMart\Documentos\Facu\2024\Semestre 1\OptativoV\Tareas\TP1\api.persona-optativo-v\api.personas\obj\Debug\net6.0\api.personas.sourcelink.json
+D:\GoogleDrive_Streaming\Mi unidad\CarlitosMart\Documentos\Facu\2024\Semestre 1\OptativoV\Tareas\TP1\api.persona-optativo-v\api.personas\obj\Debug\net6.0\api.personas.dll
+D:\GoogleDrive_Streaming\Mi unidad\CarlitosMart\Documentos\Facu\2024\Semestre 1\OptativoV\Tareas\TP1\api.persona-optativo-v\api.personas\obj\Debug\net6.0\refint\api.personas.dll
+D:\GoogleDrive_Streaming\Mi unidad\CarlitosMart\Documentos\Facu\2024\Semestre 1\OptativoV\Tareas\TP1\api.persona-optativo-v\api.personas\obj\Debug\net6.0\api.personas.pdb
+C:\Users\carlo\OneDrive\Desktop\api.persona-optativo-v\api.personas\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\carlo\OneDrive\Desktop\api.persona-optativo-v\api.personas\bin\Debug\net6.0\appsettings.json
+C:\Users\carlo\OneDrive\Desktop\api.persona-optativo-v\api.personas\bin\Debug\net6.0\api.personas.exe
+C:\Users\carlo\OneDrive\Desktop\api.persona-optativo-v\api.personas\bin\Debug\net6.0\api.personas.deps.json
+C:\Users\carlo\OneDrive\Desktop\api.persona-optativo-v\api.personas\bin\Debug\net6.0\api.personas.runtimeconfig.json
+C:\Users\carlo\OneDrive\Desktop\api.persona-optativo-v\api.personas\bin\Debug\net6.0\api.personas.dll
+C:\Users\carlo\OneDrive\Desktop\api.persona-optativo-v\api.personas\bin\Debug\net6.0\api.personas.pdb
+C:\Users\carlo\OneDrive\Desktop\api.persona-optativo-v\api.personas\bin\Debug\net6.0\Dapper.dll
+C:\Users\carlo\OneDrive\Desktop\api.persona-optativo-v\api.personas\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\carlo\OneDrive\Desktop\api.persona-optativo-v\api.personas\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\carlo\OneDrive\Desktop\api.persona-optativo-v\api.personas\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\carlo\OneDrive\Desktop\api.persona-optativo-v\api.personas\bin\Debug\net6.0\Npgsql.dll
+C:\Users\carlo\OneDrive\Desktop\api.persona-optativo-v\api.personas\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\carlo\OneDrive\Desktop\api.persona-optativo-v\api.personas\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\carlo\OneDrive\Desktop\api.persona-optativo-v\api.personas\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\carlo\OneDrive\Desktop\api.persona-optativo-v\api.personas\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\carlo\OneDrive\Desktop\api.persona-optativo-v\api.personas\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\carlo\OneDrive\Desktop\api.persona-optativo-v\api.personas\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\carlo\OneDrive\Desktop\api.persona-optativo-v\api.personas\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\carlo\OneDrive\Desktop\api.persona-optativo-v\api.personas\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\carlo\OneDrive\Desktop\api.persona-optativo-v\api.personas\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\carlo\OneDrive\Desktop\api.persona-optativo-v\api.personas\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\carlo\OneDrive\Desktop\api.persona-optativo-v\api.personas\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\carlo\OneDrive\Desktop\api.persona-optativo-v\api.personas\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\carlo\OneDrive\Desktop\api.persona-optativo-v\api.personas\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\carlo\OneDrive\Desktop\api.persona-optativo-v\api.personas\bin\Debug\net6.0\Repository.dll
+C:\Users\carlo\OneDrive\Desktop\api.persona-optativo-v\api.personas\bin\Debug\net6.0\Services.dll
+C:\Users\carlo\OneDrive\Desktop\api.persona-optativo-v\api.personas\bin\Debug\net6.0\Services.pdb
+C:\Users\carlo\OneDrive\Desktop\api.persona-optativo-v\api.personas\bin\Debug\net6.0\Repository.pdb
+C:\Users\carlo\OneDrive\Desktop\api.persona-optativo-v\api.personas\obj\Debug\net6.0\api.personas.csproj.AssemblyReference.cache
+C:\Users\carlo\OneDrive\Desktop\api.persona-optativo-v\api.personas\obj\Debug\net6.0\api.personas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlo\OneDrive\Desktop\api.persona-optativo-v\api.personas\obj\Debug\net6.0\api.personas.AssemblyInfoInputs.cache
+C:\Users\carlo\OneDrive\Desktop\api.persona-optativo-v\api.personas\obj\Debug\net6.0\api.personas.AssemblyInfo.cs
+C:\Users\carlo\OneDrive\Desktop\api.persona-optativo-v\api.personas\obj\Debug\net6.0\api.personas.csproj.CoreCompileInputs.cache
+C:\Users\carlo\OneDrive\Desktop\api.persona-optativo-v\api.personas\obj\Debug\net6.0\api.personas.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\carlo\OneDrive\Desktop\api.persona-optativo-v\api.personas\obj\Debug\net6.0\api.personas.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\carlo\OneDrive\Desktop\api.persona-optativo-v\api.personas\obj\Debug\net6.0\api.personas.sourcelink.json
+C:\Users\carlo\OneDrive\Desktop\api.persona-optativo-v\api.personas\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\carlo\OneDrive\Desktop\api.persona-optativo-v\api.personas\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\carlo\OneDrive\Desktop\api.persona-optativo-v\api.personas\obj\Debug\net6.0\staticwebassets\msbuild.api.personas.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\carlo\OneDrive\Desktop\api.persona-optativo-v\api.personas\obj\Debug\net6.0\staticwebassets\msbuild.build.api.personas.props
+C:\Users\carlo\OneDrive\Desktop\api.persona-optativo-v\api.personas\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.api.personas.props
+C:\Users\carlo\OneDrive\Desktop\api.persona-optativo-v\api.personas\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.api.personas.props
+C:\Users\carlo\OneDrive\Desktop\api.persona-optativo-v\api.personas\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\carlo\OneDrive\Desktop\api.persona-optativo-v\api.personas\obj\Debug\net6.0\scopedcss\bundle\api.personas.styles.css
+C:\Users\carlo\OneDrive\Desktop\api.persona-optativo-v\api.personas\obj\Debug\net6.0\api.pers.EBC21802.Up2Date
+C:\Users\carlo\OneDrive\Desktop\api.persona-optativo-v\api.personas\obj\Debug\net6.0\api.personas.dll
+C:\Users\carlo\OneDrive\Desktop\api.persona-optativo-v\api.personas\obj\Debug\net6.0\refint\api.personas.dll
+C:\Users\carlo\OneDrive\Desktop\api.persona-optativo-v\api.personas\obj\Debug\net6.0\api.personas.pdb
+C:\Users\carlo\OneDrive\Desktop\api.persona-optativo-v\api.personas\obj\Debug\net6.0\api.personas.genruntimeconfig.cache
+C:\Users\carlo\OneDrive\Desktop\api.persona-optativo-v\api.personas\obj\Debug\net6.0\ref\api.personas.dll

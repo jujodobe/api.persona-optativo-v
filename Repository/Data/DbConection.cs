@@ -1,12 +1,13 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Data;
+using System.Data.SqlClient;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Dapper;
 using Microsoft.Extensions.Logging;
-using Npgsql;
+//using Npgsql;
 
 namespace Repository.Data
 {
@@ -21,16 +22,16 @@ namespace Repository.Data
 
         public IDbConnection dbConnection()
         {
-
             try
             {
-                IDbConnection conexion = new NpgsqlConnection(connectionString);
+                IDbConnection conexion = new SqlConnection(connectionString);
                 conexion.Open();
                 return conexion;
             }
             catch (Exception ex)
             {
-                throw new NpgsqlException(ex.Message);
+
+                throw new Exception(ex.Message);
             }
         }
 

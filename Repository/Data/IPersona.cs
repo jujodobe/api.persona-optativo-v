@@ -9,7 +9,7 @@ namespace Repository.Data
     public interface IPersona
     {
         bool add(PersonaModel persona);
-        bool remove(PersonaModel persona);
+        bool remove(int id);
         bool update(PersonaModel persona);
         PersonaModel get(int id);
         IEnumerable<PersonaModel> list();

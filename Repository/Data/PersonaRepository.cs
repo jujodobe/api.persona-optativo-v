@@ -20,6 +20,7 @@ namespace Repository.Data
             try
             {
                 if(conexionDB.Execute("Insert into Persona(nombre, apellido, cedula) values(@nombre, @apellido, @cedula)", persona) > 0)
+
                     return true;
                 else
                     return false;
@@ -30,39 +31,56 @@ namespace Repository.Data
                 throw ex;
             }
         }
-        public bool update(PersonaModel persona int id)
+
+        public bool update(PersonaModel persona)
         {
             try
             {
                 if (conexionDB.Execute("UPDATE Persona SET " +
                     "nombre=@nombre, " +
                     "apellido=@apellido," +
-                    $"cedula=@cedula) where id_persona = {id}", persona) > 0)
+                    $"cedula=@cedula where id_persona = {persona.Id}" , persona) > 0)
                     return true;
                 else
                     return false;
             }
             catch (Exception ex)
             {
-
-                public PersonaModel get(int id)
+                throw ex;
+            }
+        }
+        public bool remove(int id)
         {
-            throw new NotImplementedException();
+            try
+            {
+                if (conexionDB.Execute("Delete from persona where id_persona = 1")>0)
+                    return true;
+                else
+                    return false;
+            }
+            catch (Exception ex)
+            {
+                throw ex;
+            }
+        }
+
+        public PersonaModel get(int id)
+        {
+            try
+            {
+                return null;
+            }
+            catch (Exception)
+            {
+
+                throw;
+            }
         }
 
         public IEnumerable<PersonaModel> list()
         {
             throw new NotImplementedException();
         }
-
-        public bool remove(PersonaModel persona)
-        {
-            throw new NotImplementedException();
-        }
-
-        public bool update(PersonaModel persona)
-        {
-            throw new NotImplementedException();
-        }
+             
     }
 }
