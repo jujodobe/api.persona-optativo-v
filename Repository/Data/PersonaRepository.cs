@@ -19,7 +19,8 @@ namespace Repository.Data
         {
             try
             {
-                if(conexionDB.Execute("Insert into Persona(nombre, apellido, cedula) values(@nombre, @apellido, @cedula)", persona) > 0)
+                if (conexionDB.Execute("Insert into Persona(nombre, apellido, cedula) values(@nombre, @apellido, @cedula)", persona) > 0)
+
                     return true;
                 else
                     return false;
@@ -30,24 +31,44 @@ namespace Repository.Data
                 throw ex;
             }
         }
-        public bool update(PersonaModel persona int id)
+
+        public bool update(PersonaModel persona, int id)
         {
             try
             {
                 if (conexionDB.Execute("UPDATE Persona SET " +
                     "nombre=@nombre, " +
                     "apellido=@apellido," +
-                    $"cedula=@cedula) where id_persona = {id}", persona) > 0)
+                    $"cedula=@cedula where id_persona = {id}", persona) > 0)
                     return true;
                 else
                     return false;
             }
             catch (Exception ex)
             {
+                throw ex;
+            }
+        }
+        public PersonaModel get(int id)
 
-                public PersonaModel get(int id)
         {
-            throw new NotImplementedException();
+
+            try
+
+            {
+
+                return conexionDB.QuerySingleOrDefault<PersonaModel>("SELECT * FROM Persona WHERE id = @id", new { id });
+
+            }
+
+            catch (Exception)
+
+            {
+
+                throw;
+
+            }
+
         }
 
         public IEnumerable<PersonaModel> list()
@@ -57,12 +78,23 @@ namespace Repository.Data
 
         public bool remove(PersonaModel persona)
         {
-            throw new NotImplementedException();
+            try
+            {
+                if (conexionDB.Execute("DELETE FROM Cliente WHERE id = @id", persona) > 0)
+                    return true;
+                else
+                    return false;
+            }
+            catch (Exception ex)
+            {
+                throw ex;
+            }
         }
 
         public bool update(PersonaModel persona)
         {
             throw new NotImplementedException();
         }
+
     }
 }

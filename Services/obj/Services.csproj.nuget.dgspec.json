@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Repositorio\\Consola .net\\api.personas\\Services\\Services.csproj": {}
+    "C:\\Users\\juanh\\Source\\Repos\\api.persona-optativo-v\\Services\\Services.csproj": {}
   },
   "projects": {
-    "C:\\Repositorio\\Consola .net\\api.personas\\Repository\\Repository.csproj": {
+    "C:\\Users\\juanh\\Source\\Repos\\api.persona-optativo-v\\Repository\\Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Repositorio\\Consola .net\\api.personas\\Repository\\Repository.csproj",
+        "projectUniqueName": "C:\\Users\\juanh\\Source\\Repos\\api.persona-optativo-v\\Repository\\Repository.csproj",
         "projectName": "Repository",
-        "projectPath": "C:\\Repositorio\\Consola .net\\api.personas\\Repository\\Repository.csproj",
-        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Repositorio\\Consola .net\\api.personas\\Repository\\obj\\",
+        "projectPath": "C:\\Users\\juanh\\Source\\Repos\\api.persona-optativo-v\\Repository\\Repository.csproj",
+        "packagesPath": "C:\\Users\\juanh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\juanh\\Source\\Repos\\api.persona-optativo-v\\Repository\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\juanh\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -37,6 +34,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -58,7 +60,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -67,24 +70,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Repositorio\\Consola .net\\api.personas\\Services\\Services.csproj": {
+    "C:\\Users\\juanh\\Source\\Repos\\api.persona-optativo-v\\Services\\Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Repositorio\\Consola .net\\api.personas\\Services\\Services.csproj",
+        "projectUniqueName": "C:\\Users\\juanh\\Source\\Repos\\api.persona-optativo-v\\Services\\Services.csproj",
         "projectName": "Services",
-        "projectPath": "C:\\Repositorio\\Consola .net\\api.personas\\Services\\Services.csproj",
-        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Repositorio\\Consola .net\\api.personas\\Services\\obj\\",
+        "projectPath": "C:\\Users\\juanh\\Source\\Repos\\api.persona-optativo-v\\Services\\Services.csproj",
+        "packagesPath": "C:\\Users\\juanh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\juanh\\Source\\Repos\\api.persona-optativo-v\\Services\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\juanh\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -98,8 +98,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Repositorio\\Consola .net\\api.personas\\Repository\\Repository.csproj": {
-                "projectPath": "C:\\Repositorio\\Consola .net\\api.personas\\Repository\\Repository.csproj"
+              "C:\\Users\\juanh\\Source\\Repos\\api.persona-optativo-v\\Repository\\Repository.csproj": {
+                "projectPath": "C:\\Users\\juanh\\Source\\Repos\\api.persona-optativo-v\\Repository\\Repository.csproj"
               }
             }
           }
@@ -108,6 +108,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -119,7 +124,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -128,7 +134,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
         }
       }
     }
